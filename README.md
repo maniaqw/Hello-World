@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Slash3rCoder
-- 👀 I’m interested in PyCharm,Java,html,c#/++
+- 👋 Hi, I’m @maniaqw
+- 🇺🇦 I’m Ukrainian
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Python
   
