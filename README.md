@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @maniaqw
--  I’m Ukrainian
-- 🌱 I’m currently pasting on c++
-- 💞️ I’m reverse engineer
-
-
+Claude\Codex enjoyer
+Vibecoding
+Working until limits get reached
